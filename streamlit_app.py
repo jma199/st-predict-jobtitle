@@ -37,7 +37,7 @@ with col2:
 
 # define helper functions
 def load_model():
-    return pickle.load(open('./models/catboost2.pkl', 'rb'))
+    return pickle.load(open('catboost2.pkl', 'rb'))
 
 def prep_text(doc):
     text = str(doc).replace('\n', ' ')
