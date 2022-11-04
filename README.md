@@ -1,21 +1,7 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Data Analytics Careers: Data Analyst vs Data Scientist
 
-Description of the app ...
+## Summary
 
-## Demo App
+This is a Streamlit app that predicts the job title (either data analyst or data scientist) for a given job description.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+This app is uses a CatBoost Classifier model to make predictions.
